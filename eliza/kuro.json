@@ -1,9 +1,11 @@
 {
-"username": "chichijaya3",
-  "new_username": "chichijaya3/kitten",
+  "username": "elave0158",
+  "new_username": "elave0158/sweetycat",
   "section_mode": true,
-  "album": ["cutecat"],
-  "init_jumlah_photo": 250,
+  "album": [
+    "kuromi"
+  ],
+  "init_jumlah_photo": 500,
   "admob_banner_id": "ca-app-pub-4463463911232315/6402564650",
   "admob_interstitial_id": "ca-app-pub-4463463911232315/1317758935",
   "admob_native_id": "",
