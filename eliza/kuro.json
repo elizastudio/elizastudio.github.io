@@ -10,7 +10,7 @@
   "admob_interstitial_id": "ca-app-pub-4463463911232315/1317758935",
   "admob_native_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "",
+  "admob_open_app_id": "ca-app-pub-4463463911232315/9190232290",
 
   "admob_hpk_1": "sticth",
   "admob_hpk_2": "fashion",
@@ -20,7 +20,7 @@
 
   "startapp_app_id": "12345677890",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 3,
 
   "list_ads": [
     "ADMOB",
