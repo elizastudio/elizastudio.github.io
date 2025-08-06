@@ -20,17 +20,17 @@
 
   "startapp_app_id": "12345677890",
 
-  "interstitial_inverval": 4,
+  "interstitial_inverval": 3,
 
   "list_ads": [
     "ADMOB",
-    "APPLOVIN",
-    "UNITY"
+    "UNITY",
+    "APPLOVIN"
   ],
 
-  "unity_id": "1234567",
-  "unity_banner": "Android_Banner",
-  "unity_interstitial": "Android_Interstitial",
+  "unity_id": "4828560",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
 
   "applovin_sdk_key": "",
   "applovin_banner_id":"",
