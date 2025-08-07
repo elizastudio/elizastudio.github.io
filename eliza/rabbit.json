@@ -24,9 +24,7 @@
   "interstitial_inverval": 7,
 
   "list_ads": [
-    "ADMOB",
-    "APPLOVIN",
-    "UNITY"
+    "ADMOB"
   ],
 
   "unity_id": "1234567",
