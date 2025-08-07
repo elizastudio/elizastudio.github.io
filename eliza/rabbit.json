@@ -8,7 +8,7 @@
 
   "init_jumlah_photo": 250,
   "admob_banner_id": "ca-app-pub-4463463911232315/2399439143",
-  "admob_interstitial_id": "",
+  "admob_interstitial_id": "ca-app-pub-4463463911232315/7030332184",
   "admob_native_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
@@ -21,7 +21,7 @@
 
   "startapp_app_id": "12345677890",
 
-  "interstitial_inverval": 7,
+  "interstitial_inverval": 3,
 
   "list_ads": [
     "ADMOB"
