@@ -1,0 +1,38 @@
+{
+  "username": "chichijaya3",
+  "new_username": "chichijaya3/flower",
+  "section_mode": true,
+  "album": [
+    "sunflower",
+    "rose",
+    "orchid"
+  ],
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "ca-app-pub-4463463911232315/2058717275",
+  "admob_interstitial_id": "ca-app-pub-4463463911232315/8034735169",
+  "admob_native_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-4463463911232315/9661875126",
+
+  "admob_hpk_1": "sticth",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "blue koala",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "startapp_app_id": "12345677890",
+
+  "interstitial_inverval": 3,
+
+  "list_ads": [
+    "ADMOB"
+  ],
+
+  "unity_id": "1234567",
+  "unity_banner": "Android_Banner",
+  "unity_interstitial": "Android_Interstitial",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
