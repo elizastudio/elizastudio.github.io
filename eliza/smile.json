@@ -3,9 +3,10 @@
   "new_username": "chichijaya3/smiles",
   "section_mode": true,
   "album": [
-    "smile"
+    "smile",
+    "sad"
   ],
-  "init_jumlah_photo": 150,
+  "init_jumlah_photo": 200,
   "admob_banner_id": "ca-app-pub-4463463911232315/9538306958",
   "admob_interstitial_id": "ca-app-pub-4463463911232315/4706419155",
   "admob_native_id": "",
