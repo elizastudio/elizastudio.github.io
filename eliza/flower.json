@@ -5,9 +5,10 @@
   "album": [
     "sunflower",
     "rose",
-    "orchid"
+    "orchid",
+    "tulip"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 150,
   "admob_banner_id": "ca-app-pub-4463463911232315/2058717275",
   "admob_interstitial_id": "ca-app-pub-4463463911232315/8034735169",
   "admob_native_id": "",
