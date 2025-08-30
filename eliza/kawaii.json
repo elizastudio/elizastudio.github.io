@@ -3,9 +3,10 @@
   "new_username": "elave0158/kawaii",
   "section_mode": true,
   "album": [
-    "kawaii"
+    "kawaii",
+    "cute"
   ],
-  "init_jumlah_photo": 350,
+  "init_jumlah_photo": 250,
   "admob_banner_id": "ca-app-pub-4463463911232315/1503313965",
   "admob_interstitial_id": "ca-app-pub-4463463911232315/4839923748",
   "admob_native_id": "",
@@ -23,13 +24,14 @@
   "interstitial_inverval": 3,
 
   "list_ads": [
-    "ADMOB"
+    "ADMOB",
+    "UNITY"
   ],
 
-  "unity_id": "1234567",
-  "unity_banner": "Android_Banner",
-  "unity_interstitial": "Android_Interstitial",
-
+  "unity_id": "4828560",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  
   "applovin_sdk_key": "",
   "applovin_banner_id":"",
   "applovin_inter_id":""
