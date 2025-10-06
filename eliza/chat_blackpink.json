@@ -499,7 +499,7 @@
     ],
     [
       {
-        "ask": [["hi", "most beautiful woman that I’ve ever met"]],
+        "ask": [["hi", "most good person that I’ve ever met"]],
         "answer": ["hello Eonnie, where are you?", "why are you ignoring my text"]
       },
       {
@@ -1566,7 +1566,7 @@
     ],
     [
       {
-        "ask": [["yn", "ada apa"]],
+        "ask": [["yn", "halo"]],
         "answer": ["hai Eonnie", "halo"]
       },
       {
@@ -1791,7 +1791,7 @@
     ],
     [
       {
-        "ask": [["hai", "wanita paling cantik yang pernah aku temui"]],
+        "ask": [["hai", "orang paling baik yang pernah aku temui"]],
         "answer": ["halo Eonnie, kamu di mana?", "kenapa kamu mengabaikan pesanku"]
       },
       {
