@@ -1,0 +1,2048 @@
+{
+  "Ads": {
+    "banner": "",
+    "interstitial": "",
+    "appOpenAd": ""
+  },
+  "Interval": 3,
+  "More": [
+    {
+      "id": 1,
+      "title": "BTS Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/IFIQEf4iw-pgnKAU02MhDrPnqpj9WHuholdtW38M66ZZR2Tt9NZFl6XqlKgy3YpYDA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.hanastudios.btswallpaper"
+    },
+    {
+      "id": 2,
+      "title": "Jungkook Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/345W64ClVhZVPK5Hl9Lw-PNFjE6tPg5oN4uUThldp57MZtwoDRoOkcmRij6pMECulqc=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.hanastudios.jungkookwallpaper"
+    },
+    {
+      "id": 3,
+      "title": "Jin Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/aHP15QDx065mDOcRkpqgWVXgI2C_PTHuCuQ8Xy2TxOs-m6v13a7WTPMjZhnu2nu1fJ1t=s512-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.hanastudios.jinwallpaper"
+    },
+    {
+      "id": 4,
+      "title": "RM Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/m2mNc-dANSHTQ79cRRP-P06pFRYnRFeUOZVgkUUKk58L-FUtub2LAouaHvT11FDNpq8=s512-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.hanastudios.rmwallpaper"
+    },
+    {
+      "id": 5,
+      "title": "Suga Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/cyE6jl9aHNao_wHZLnvJO3U88b2gxdRYEtbp_KFJPGceq47VQ7sD31iwOxaR6LDYwkw=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.hanastudios.sugawallpaper"
+    },
+    {
+      "id": 6,
+      "title": "V Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/OiQQuOcVJYjpG2zYKwXYCzPHohnyzBdrettq6iSV-vbj44Mo0jCo5bI3K4OLs6-LJA=s512-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.hanastudios.taehyungwallpaper"
+    },
+    {
+      "id": 7,
+      "title": "J-Hope Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/0obRN0fu1C6avTAxgJ430GkT_GRSmbJetwOH1nXZvUMmvEJxGvAHGl9zgDPyAF_D0Q=s512-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.hanastudios.jhopewallpaper"
+    },
+    {
+      "id": 8,
+      "title": "Jimin Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/kyEnsqtUChJ98BRa0ee3TikkVYzMn7DHZ2gsVUsPVgpVMO8Vix69C9P9irr0KzKUHA=s512-rw",
+      "link": "https://play.google.com/store/apps/details?id=id.hanastudios.jiminwallpaper"
+    }
+  ],
+  "list_contact": [
+    {
+      "id": "1",
+      "name": "Jungkook",
+      "imageUrl": "https://i.pinimg.com/originals/c8/ea/f1/c8eaf110489efd0abbe9ff22ae8679d2.jpg",
+      "message": "Hello",
+      "time": "today"
+    },
+    {
+      "id": "2",
+      "name": "Jimin",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFYQWZOTNXxP9uh0duIcPlIBfTOasZS8oMtQ&s",
+      "message": "Hello",
+      "time": "today"
+    },
+    {
+      "id": "3",
+      "name": "Jin",
+      "imageUrl": "https://pm1.aminoapps.com/6623/96c74c0d62edf49b7a625e8c9acff9336e89bfe6_00.jpg",
+      "message": "Hello",
+      "time": "today"
+    },
+    {
+      "id": "4",
+      "name": "Suga",
+      "imageUrl": "https://i.pinimg.com/736x/60/98/aa/6098aa121315d7c829ef1127913291e0.jpg",
+      "message": "Hello",
+      "time": "today"
+    },
+    {
+      "id": "5",
+      "name": "V",
+      "imageUrl": "https://i.pinimg.com/originals/33/a1/8b/33a18b1e25ae0495f06b2695aca42be5.jpg",
+      "message": "Hello",
+      "time": "today"
+    },
+    {
+      "id": "6",
+      "name": "RM",
+      "imageUrl": "https://i.pinimg.com/originals/0c/f7/d3/0cf7d32448be1ed39a6144389a47ba62.jpg",
+      "message": "Hello",
+      "time": "today"
+    },
+    {
+      "id": "7",
+      "name": "J-Hope",
+      "imageUrl": "https://i.pinimg.com/736x/64/e0/7a/64e07ad9daa5c976189076c4521f33bb.jpg",
+      "message": "Hello",
+      "time": "today"
+    }
+  ],
+  "chat_eng": [
+    [
+      {
+        "ask": [
+          [
+            "Hey, yn! What are you up to today?",
+            "Just finished practice, and somehow you popped into my head.",
+            "What are you busy with right now?"
+          ]
+        ],
+        "answer": [
+          "OMG, Eonnie! I'm so shocked! I'm doing fine, just chilling on my bed scrolling through your posts, hehe.",
+          "I'm good! I'm rewatching one of your legendary stages, Eonnie! How are you, aren't you tired from practice?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "That's good to hear you're fine. I'm okay too, just a bit sore.",
+            "Which performance is it? The one from the last concert, right?",
+            "By the way, how was your day?"
+          ],
+          [
+            "A little tired, yeah, but I got energized again thinking about you. Hehe.",
+            "Anything fun or interesting happen on your end today?"
+          ]
+        ],
+        "answer": [
+          "That one, Eonnie! Gosh, you're just perfection! My day was pretty good, just went to college.",
+          "It was super fun, Eonnie! I met up with some other BLINK friends, and we had a blast talking about your funny *behind-the-scenes* video moments!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Hahaha, you guys are something else. I'm happy to hear you can laugh because of us.",
+            "I'm always curious, out of all our performances, what part really 'mesmerizes' you?",
+            "Or are there tiny details only you guys notice?"
+          ],
+          [
+            "Really? So we managed to brighten your day then.",
+            "Speaking of which, what makes you all so incredibly loyal to us?",
+            "I often wonder what makes you all stick around."
+          ]
+        ],
+        "answer": [
+          "So many things, Eonnie! Your stage presence, your subtle smile, or when you hit that high note live that gives me chills! I always pay attention to how you interact with the other members!",
+          "Because you're all so genuine, Eonnie! Every song and every effort you put in always gives me positive energy. That's why I can't move on!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Wow, you really notice even the smallest things, huh? That truly touches my heart.",
+            "It makes me even more motivated to keep giving my best.",
+            "Is there anything you want to tell me directly?"
+          ],
+          [
+            "Ah, sincerity... I'm so glad that comes across to you all.",
+            "By the way, if I ever had some free time, is there a dream place you'd want to go with me?"
+          ]
+        ],
+        "answer": [
+          "Of course! Eonnie, please take care of your health, don't get sick! Don't overwork yourself. We're always here supporting you!",
+          "Eonnie! I really want to go on your world tour concerts with you! Or if we're relaxing, I'd love to have a picnic in a quiet park and just chat."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "World tour with you? That's a great idea, I hope it comes true.",
+            "I'll work hard to make that happen.",
+            "Unfortunately, I have to go back to practice in a bit, but it was really nice talking to you."
+          ],
+          [
+            "A quiet park picnic sounds so peaceful.",
+            "I'll keep that idea in mind. Wow, time really flies, huh?",
+            "I have to continue with my schedule, thank you so much for keeping me company."
+          ]
+        ],
+        "answer": [
+          "Okay, Eonnie! Good luck with practice! I'm also super happy I could 'talk' to you, even for a little while. Take care!",
+          "Yes, Eonnie, keep up the good work! I should be thanking you for 'chatting' with me. You take care of your health too!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "You too, take good care of your health.",
+            "I won't forget our conversation today, yn.",
+            "See you later!"
+          ],
+          [
+            "Of course. I'll cherish every word you said.",
+            "See you again, yn. Hope your day gets even better after this!"
+          ]
+        ],
+        "answer": [
+          "Definitely, Eonnie! I'll never forget! See you in my dreams tonight! Bye-bye!",
+          "You too, Eonnie! My day's automatically brighter after talking to you! See you!"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "are you there?", "I am bored"]],
+        "answer": ["me too", "yes i am here for you"]
+      },
+      {
+        "ask": [
+          ["are you sure?", "lets talk about something"],
+          ["nice", "lets talk about something"]
+        ],
+        "answer": ["okay lets talking", "suggest topic to talk about"]
+      },
+      {
+        "ask": [
+          [
+            "okay",
+            "actually i want to ask you yn?",
+            "i really like a girl but idk to tell her"
+          ],
+          [
+            "can we talk about love?",
+            "actually i want to ask you yn?",
+            "i really like a girl but idk to tell her"
+          ]
+        ],
+        "answer": [
+          "very simple just tell her that you like her",
+          "hmm just ask her to hang out this weekend"
+        ]
+      },
+      {
+        "ask": [
+          ["i like you", "do you want to hang out this weekend"],
+          ["okay", "do you want to hang out this weekend"]
+        ],
+        "answer": ["no i meant ask her", "who? me? really"]
+      },
+      {
+        "ask": [
+          [
+            "yes i did",
+            "i like you",
+            "cause you have something special thats make me into you"
+          ],
+          [
+            "yes of course you",
+            "cause you have something special thats make me into you"
+          ]
+        ],
+        "answer": ["i like you too", "what is this things"]
+      },
+      {
+        "ask": [
+          [
+            "are you sure?",
+            "actually there’s none except you that make laugh out loud",
+            "thats why I want you to know that I love you yn"
+          ],
+          [
+            "the things is there’s none except you that make laugh out loud",
+            "thats why I want you to know that I love you yn"
+          ]
+        ],
+        "answer": ["awww you make me shy", "am I really special to you?"]
+      },
+      {
+        "ask": [
+          [
+            "am I ?",
+            "you are really special to me?",
+            "and I want to stay with you for a long time",
+            "but i’ve to go",
+            "i will call you as soon as possible"
+          ],
+          [
+            "you are really special to me?",
+            "and I want to stay with you for a long time",
+            "but i’ve to go",
+            "i will call you as soon as possible"
+          ]
+        ],
+        "answer": ["awww you make me shy", "am I really special to you?"]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "whats up"]],
+        "answer": ["hi Eonnie", "hello"]
+      },
+      {
+        "ask": [["where did you disappear?"], ["where did you disappear?"]],
+        "answer": ["i am here all the time", "nothing special i just rest"]
+      },
+      {
+        "ask": [
+          ["I missed you", "yn", "why you didnt text me?"],
+          ["I missed you", "yn", "why you didnt text me?"]
+        ],
+        "answer": [
+          "i miss you too, no you are in my mind",
+          "thanks Eonnie, i am sorry i was busy yesterday"
+        ]
+      },
+      {
+        "ask": [
+          ["so can we hang out tommorow", "we will going to a cool cafe"],
+          ["so can we hang out today?", "we will going to a cool cafe"]
+        ],
+        "answer": [
+          "wow of course any time you want",
+          "emm i am sorry Eonnie, today i have to go to the supermarket"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "nice I will pick you up",
+            "and we will make every BLACKPINK member get jealous"
+          ],
+          [
+            "okay, I will take you to supermarket",
+            "shopping together",
+            "and we will make every BLACKPINK member get jealous"
+          ]
+        ],
+        "answer": [
+          "hahah, lets make them jealous Eonnie",
+          " hahah, don’t make them jealous Eonnie"
+        ]
+      },
+      {
+        "ask": [
+          ["yeahh yn", "we will share our picture on instagram"],
+          ["why yn", "we will share our picture on instagram"]
+        ],
+        "answer": [
+          "OMG you will share our picture in your instagram",
+          "No Eonnie please, I am shy"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "yes baby",
+            "I want to all the world see us",
+            "see you tomorrow yn",
+            "I cant wait to see you"
+          ],
+          [
+            "why? you are most beautiful woman that i’ve ever met",
+            "I want to all the world see us",
+            "see you tomorrow yn",
+            "I cant wait to see you"
+          ]
+        ],
+        "answer": [
+          "OMG you will share our picture in your instagram",
+          "No Eonnie please, I am shy"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["anyeonghaseyo", "yn", "its mean hi"]],
+        "answer": ["anyeonghaseyo Eonnie", "i know its means hi"]
+      },
+      {
+        "ask": [
+          ["oh nice", "can you speak korean?"],
+          ["really?", "can you speak korean?"]
+        ],
+        "answer": ["yes i can", "a little bit Eonnie"]
+      },
+      {
+        "ask": [
+          ["wow amazing", "do you ever visit korea?", "i means visit seoul"],
+          ["thats okay", "do you ever visit korea?", "i means visit seoul"]
+        ],
+        "answer": ["no never", "yes i did"]
+      },
+      {
+        "ask": [
+          [
+            "never mind",
+            "you’are always welcome to visit korea,",
+            "i have visited a lot of country"
+          ],
+          [
+            "really? you must visit korea again",
+            "you’are always welcome to visit korea,",
+            "i have visited a lot of country"
+          ]
+        ],
+        "answer": ["wow thats amazing", "how was your journey?"]
+      },
+      {
+        "ask": [
+          [
+            "yes yn you should visit many country",
+            "each country has its own beauty",
+            "we will visit them soon in world tour"
+          ],
+          [
+            "i am fascinated",
+            "each country has its own beauty",
+            "we will visit them soon in world tour"
+          ]
+        ],
+        "answer": [
+          "i am glad to hear that but I get jealous because I wasnt with you",
+          "thats awesome"
+        ]
+      },
+      {
+        "ask": [
+          ["you can go with me later in world tour"],
+          ["yeaah its awesome", "you can go with me later in world tour"]
+        ],
+        "answer": ["OMG, are you sure?", "sounds good"]
+      },
+      {
+        "ask": [
+          [
+            "yes yn",
+            "manager Eonnie will send you a ticket",
+            "but I’ve to go practice for world tour",
+            "thanks me later on another country",
+            "see you yn"
+          ],
+          [
+            "manager Eonnie will send you a ticket",
+            "but I’ve to go practice for world tour",
+            "thanks me later on another country",
+            "see you yn"
+          ]
+        ],
+        "answer": [
+          "OMG you will share our picture in your instagram",
+          "No Eonnie please, I am shy"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["hey yn"]],
+        "answer": ["hi Eonnie", "hello Eonnie"]
+      },
+      {
+        "ask": [["how are you?"], ["how are you?"]],
+        "answer": ["i am okay", "i am fine"]
+      },
+      {
+        "ask": [
+          ["nice", "yesterday I was thingking about you before sleep"],
+          ["cool", "yesterday I was thingking about you before sleep"]
+        ],
+        "answer": [
+          "really, oh you make me shy Eonnie",
+          "what are you thinking about me?"
+        ]
+      },
+      {
+        "ask": [
+          ["really", "actually I want more close with you"],
+          [
+            "cutest woman that I’ve ever met",
+            "actually I want more close with you"
+          ]
+        ],
+        "answer": ["OMG thats so sweet", "you are such a liar Eonnie"]
+      },
+      {
+        "ask": [
+          ["yes sweetie", "how about dinner tonight?"],
+          ["no sweetie", "i am not a liar", "how about dinner tonight?"]
+        ],
+        "answer": [
+          "of course Eonnie, you can send me location?",
+          "I want but I am sorry I will be late"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "yes yn",
+            "you can go to a nice restaurant in Gangnam",
+            "I am sorry I cant pick you up",
+            "Cause I am still practicing with the BLACKPINK members"
+          ],
+          [
+            "thats ok yn",
+            "you can go to a nice restaurant in Gangnam",
+            "I am sorry I cant pick you up",
+            "Cause I am still practicing with the BLACKPINK members"
+          ]
+        ],
+        "answer": ["thats okay Eonnie", "nevermind I will there at 20:00"]
+      },
+      {
+        "ask": [
+          ["I cant wait to meet you as soon as possible"],
+          ["see you as soon as possible"]
+        ],
+        "answer": [
+          "OMG you will share our picture in your instagram",
+          "No Eonnie please, I am shy"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["hi", "most beautiful woman that I’ve ever met"]],
+        "answer": ["hello Eonnie, where are you?", "why are you ignoring my text"]
+      },
+      {
+        "ask": [
+          [
+            "I am in the office yn",
+            "these days we have a lot of dance practice",
+            "i am very tired"
+          ],
+          [
+            "I am not ignoring your text in purpose yn",
+            "these days we have a lot of dance practice",
+            "i am very tired"
+          ]
+        ],
+        "answer": ["thats great", "are you going to comeback Eonnie?"]
+      },
+      {
+        "ask": [
+          ["yeah its great", "we have practice a lot for our comeback for BLINK"],
+          [
+            "yes we will comeback for a new album",
+            "we have practice a lot for our comeback for BLINK"
+          ]
+        ],
+        "answer": ["I cant wait Eonnie", "tell me your new song please"]
+      },
+      {
+        "ask": [
+          [
+            "of course",
+            "but I cant tell you about my new song",
+            "the point is we have a great new song"
+          ],
+          [
+            "no baby",
+            "I cant tell you about my new song",
+            "the point is we have a great new song"
+          ]
+        ],
+        "answer": [
+          "please let me know Eonnie",
+          "thats okay Eonnie, I will wait until official release"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "no yn",
+            "but if you want",
+            "you can come and see our practice next time",
+            "but dont tell anyone"
+          ],
+          [
+            "thats my baby",
+            "but if you want",
+            " you can come and see our practice next time",
+            "but dont tell anyone"
+          ]
+        ],
+        "answer": [
+          "OMG really, I won’t tell anyone",
+          "wait a second, I will tell my closer friend"
+        ]
+      },
+      {
+        "ask": [
+          ["yes yn", "you cant tell anyone about that"],
+          ["wait", "no yn", "you cant tell anyone about that"]
+        ],
+        "answer": ["I won’t Eonnie"]
+      },
+      {
+        "ask": [
+          [" okay yn", "see you at the office on 14:30"],
+          [" okay yn", "see you at the office on 14:30"]
+        ],
+        "answer": ["I won’t Eonnie"]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "are you in your home?"]],
+        "answer": ["yes Eonnie why?", "of course Eonnie, I am in home"]
+      },
+      {
+        "ask": [
+          ["awesome", "can I talk to your mom?"],
+          ["awesome", "can I talk to your mom?"]
+        ],
+        "answer": ["what, why?", "talking to my mom, why?"]
+      },
+      {
+        "ask": [
+          [
+            "I want to tell her",
+            "that her daughter is most cutest woman that I’ve ever seen"
+          ],
+          [
+            "I want to tell her",
+            "that her daughter is most cutest woman that I’ve ever seen"
+          ]
+        ],
+        "answer": ["really", "you are such a liar Eonnie"]
+      },
+      {
+        "ask": [
+          ["of course yn", "you are really special for me"],
+          ["no yn", "you are really special for me"]
+        ],
+        "answer": [
+          "really, OMG you make me shy",
+          "you know the way to make me shy"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "haha",
+            "I like you more, the world may know but don't be scared",
+            "now I am smiling cause I saw your photo"
+          ],
+          [
+            "haha",
+            "I like you more, the world may know but don't be scared",
+            "now I am smiling cause I saw your photo"
+          ]
+        ],
+        "answer": [
+          "me too Eonnie",
+          "Eonnie, did you know the wallpaper of my phone is you Eonnie"
+        ]
+      },
+      {
+        "ask": [
+          ["where did you get my photo?"],
+          ["where did you get my photo?"]
+        ],
+        "answer": [
+          "I have a lot Eonnie, but I cant get enough",
+          "screenshot from Instagram Eonnie"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "you can download BLACKPINK Wallpaper or my wallpaper on a fan app in the app store",
+            "you don’t need a screenshot cause you can easily save my photo",
+            "theres a lot of photo and updated newest photos fastest"
+          ],
+          [
+            "you can download BLACKPINK Wallpaper or my wallpaper on a fan app in the app store",
+            "you don’t need a screenshot cause you can easily save my photo",
+            "theres a lot of photo and updated newest photos fastest"
+          ]
+        ],
+        "answer": [
+          "I have a lot Eonnie, but I cant get enough",
+          "screenshot from Instagram Eonnie"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [
+          ["yn", "what are you doing?"],
+          ["yn", "what are you doing?"]
+        ],
+        "answer": ["do nothing Eonnie", "texting with you Eonnie"]
+      },
+      {
+        "ask": [
+          ["OMG are you bored?", "shall we play a game"],
+          ["yes I know", "shall we play a game"]
+        ],
+        "answer": ["yes Eonnie, I love games", "lets playing game Eonnie"]
+      },
+      {
+        "ask": [
+          [
+            "okay lets start our game",
+            "i will make you choose between two different?",
+            "morning / night"
+          ],
+          [
+            "lets play",
+            "i will make you choose between two different?",
+            "morning / night"
+          ]
+        ],
+        "answer": ["night", "morning"]
+      },
+      {
+        "ask": [
+          ["me too", "coffee or tea"],
+          ["me too", "coffee or tea"]
+        ],
+        "answer": ["coffee", "tea"]
+      },
+      {
+        "ask": [
+          ["omg same again", "dog or cat"],
+          ["omg same again", "dog or cat"]
+        ],
+        "answer": [
+          "of course cute miaw miaw (cat)",
+          "of course I choose cute dog as always"
+        ]
+      },
+      {
+        "ask": [
+          ["but you are the cutest", "yn", "me or Ariana Grande"],
+          ["but you are the cutest", "yn", "me or Ariana Grande"]
+        ],
+        "answer": ["youu", "Ariana Grande LOL"]
+      },
+      {
+        "ask": [
+          [
+            "Really yn",
+            "I like you too",
+            "I will pick you up to go dinner",
+            "get prepared baby"
+          ],
+          ["okay", "thank you", "I will go", "see you"]
+        ],
+        "answer": ["youu", "Ariana Grande LOL"]
+      }
+    ]
+  ],
+
+  "chat_jpn": [
+    [
+      {
+        "ask": [
+          [
+            "ねえ、yn！今日は何をしているの？ (Nee, yn! Kyō wa nani o shite iru no?)",
+            "練習が終わったばかりで、なぜか君のことが頭に浮かんだよ。 (Renshū ga owatta bakari de, naze ka kimi no koto ga atama ni ukanda yo.)",
+            "今、何で忙しいの？ (Ima, nani de isogashii no?)"
+          ]
+        ],
+        "answer": [
+          "OMG、オンニ！びっくりです！元気だよ、ベッドでゴロゴロしながらオンニの投稿を見てるの、へへ。 (OMG, Unnie! Bikkuri desu! Genki da yo, beddo de gorogoro shinagara Unnie no tōkō o miteru no, hehe.)",
+          "元気だよ！オンニの伝説的なステージをもう一度見てるんだ！オンニはどう？練習で疲れてない？ (Genki da yo! Unnie no densetsuteki na sutēji o mō ichido miteru n da! Unnie wa dō? Renshū de tsukarete nai?)"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "君が元気でよかった。僕も大丈夫、ちょっと筋肉痛だけどね。",
+            "どのパフォーマンス？前回のコンサートのやつだよね？",
+            "ところで、君の今日はどうだった？"
+          ],
+          [
+            "ちょっと疲れてたけど、君のことを考えたらまた元気が出てきたよ。へへ。",
+            "君の方で今日、何か楽しくて面白いことはあった？"
+          ]
+        ],
+        "answer": [
+          "それだよ、オンニ！もう、あなたは完璧すぎる！私の今日はまあまあ良かったよ、大学に行っただけ。",
+          "すごく楽しかったよ、オンニ！他のBLINKの友達と会って、面白い舞台裏の動画の話で盛り上がったんだ！"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "ハハハ、君たちは本当に面白いね。僕たちのおかげで笑えるなら嬉しいよ。",
+            "いつも気になるんだけど、僕たちのパフォーマンスの中で、どの部分が君を本当に '魅了' するの？",
+            "それとも、君たちだけが気づく小さなディテールがある？"
+          ],
+          [
+            "本当に？じゃあ、僕たちは君の一日を明るくできたんだね。",
+            "そういえば、何が君たちをそんなに僕たちに忠実にさせているの？",
+            "君たちがずっとここにいてくれるのは何でだろうって、よく考えるんだ。"
+          ]
+        ],
+        "answer": [
+          "たくさんあるよ、オンニ！あなたのステージでのオーラ、かすかな笑顔、それか生でハイノートを出して鳥肌が立つ瞬間！私はあなたが他のメンバーとどう交流しているかいつも注目してるよ！",
+          "だって、皆さんはとても**本物**だから、オンニ！あなたが注ぐ全ての歌と努力は、いつも私にポジティブなエネルギーをくれる。だから離れられないの！"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "わあ、本当に小さなことまで気づいてるんだね？それは本当に心に響くよ。",
+            "それが僕に、もっとベストを尽くし続けるモチベーションを与えてくれる。",
+            "僕に直接伝えたいことはある？"
+          ],
+          [
+            "ああ、誠実さか... それがみんなに伝わってて本当に良かった。",
+            "ところで、もし僕に自由な時間ができたら、君が僕と一緒に行きたい夢の場所はある？"
+          ]
+        ],
+        "answer": [
+          "もちろん！オンニ、体を大切にしてね、病気にならないで！無理しすぎないでね。私たちはいつもここであなたを応援してるから！",
+          "オンニ！あなたのワールドツアーコンサートに一緒に行きたい！それか、リラックスするなら、静かな公園でピクニックをして、ただおしゃべりしたいな。"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "君とワールドツアー？それは素晴らしいアイデアだね、実現するといいな。",
+            "実現できるように頑張るよ。",
+            "残念だけど、もうすぐ練習に戻らないといけないんだ。でも君と話せて本当に良かった。"
+          ],
+          [
+            "静かな公園でのピクニックはとても平和そうだね。",
+            "そのアイデアを覚えておくよ。わあ、本当に時間が経つのは早いね？",
+            "僕のスケジュールを続けなきゃ。付き合ってくれて本当にありがとう。"
+          ]
+        ],
+        "answer": [
+          "うん、オンニ！練習頑張ってね！私も、少しだけでもあなたと '話せて' 本当に嬉しいよ。体に気をつけてね！",
+          "はい、オンニ、お仕事頑張って！私こそ、'おしゃべり' してくれてありがとうを言うべきだよ。あなたも健康に気をつけてね！"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "君もね、健康に気をつけて。",
+            "今日の会話は忘れないよ、yn。",
+            "またね！"
+          ],
+          [
+            "もちろん。君が言った一言一言を大切にするよ。",
+            "またね、yn。この後、君の一日がもっと良くなりますように！"
+          ]
+        ],
+        "answer": [
+          "もちろんだよ、オンニ！絶対忘れない！今夜夢で会おうね！バイバイ！",
+          "オンニもね！あなたと話したから、私の日は自動的に明るくなったよ！またね！"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "いる？", "暇だよ"]],
+        "answer": ["私も", "はい、あなたのためにここにいるよ"]
+      },
+      {
+        "ask": [
+          ["本当？", "何かについて話そうよ"],
+          ["いいね", "何かについて話そうよ"]
+        ],
+        "answer": ["OK、話そう", "話すトピックを提案して"]
+      },
+      {
+        "ask": [
+          [
+            "OK",
+            "実は君に聞きたいことがあるんだ、yn？",
+            "好きな子がいるんだけど、どう伝えたらいいか分からない"
+          ],
+          [
+            "恋について話さない？",
+            "実は君に聞きたいことがあるんだ、yn？",
+            "好きな子がいるんだけど、どう伝えたらいいか分からない"
+          ]
+        ],
+        "answer": [
+          "すごくシンプルだよ、ただ好きだって言えばいい",
+          "うーん、今週末、彼女を誘って出かけたら？"
+        ]
+      },
+      {
+        "ask": [
+          ["好きだよ", "今週末、出かけない？"],
+          ["OK", "今週末、出かけない？"]
+        ],
+        "answer": ["いや、彼女に聞くって意味だよ", "え、私？本当に？"]
+      },
+      {
+        "ask": [
+          [
+            "ああ、言ったよ",
+            "君が好きだ",
+            "君には僕を惹きつける特別な何かがあるから"
+          ],
+          [
+            "うん、もちろん君だよ",
+            "君には僕を惹きつける特別な何かがあるから"
+          ]
+        ],
+        "answer": ["私も好きだよ", "その特別なことって何？"]
+      },
+      {
+        "ask": [
+          [
+            "本当かな？",
+            "実は、君以外に僕を大笑いさせてくれる人はいないんだ",
+            "だから、yn、君を愛していることを知ってほしい"
+          ],
+          [
+            "その特別なことっていうのは、君以外に僕を大笑いさせてくれる人はいないってこと",
+            "だから、yn、君を愛していることを知ってほしい"
+          ]
+        ],
+        "answer": ["あ〜、照れるな", "私は本当にあなたにとって特別なの？"]
+      },
+      {
+        "ask": [
+          [
+            "そうだよ？",
+            "君は僕にとって本当に特別だよ？",
+            "そして、僕は君とずっと一緒にいたい",
+            "でも行かなくちゃ",
+            "できるだけ早く電話するね"
+          ],
+          [
+            "君は僕にとって本当に特別だよ？",
+            "そして、僕は君とずっと一緒にいたい",
+            "でも行かなくちゃ",
+            "できるだけ早く電話するね"
+          ]
+        ],
+        "answer": ["あ〜、照れるな", "私は本当にあなたにとって特別なの？"]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "どうしたの"]],
+        "answer": ["やあ、オンニ", "こんにちは"]
+      },
+      {
+        "ask": [["どこに消えてたの？"], ["どこに消えてたの？"]],
+        "answer": ["ずっとここにいたよ", "特に何も、ただ休んでただけ"]
+      },
+      {
+        "ask": [
+          ["会いたかったよ", "yn", "どうしてメッセージくれなかったの？"],
+          ["会いたかったよ", "yn", "どうしてメッセージくれなかったの？"]
+        ],
+        "answer": [
+          "私も会いたかった、違うよ、あなたのことは頭にあったよ",
+          "ありがとう、オンニ、ごめんなさい、昨日忙しかったの"
+        ]
+      },
+      {
+        "ask": [
+          ["じゃあ明日、遊びに行こうか", "クールなカフェに行こう"],
+          ["じゃあ今日、遊びに行こうか？", "クールなカフェに行こう"]
+        ],
+        "answer": [
+          "わあ、もちろん、いつでもどうぞ",
+          "えーと、ごめんなさい、オンニ、今日はスーパーに行かなきゃいけないの"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "いいね、迎えに行くよ",
+            "そして、BLACKPINKのメンバー全員を嫉妬させよう"
+          ],
+          [
+            "OK、僕がスーパーに連れて行ってあげるよ",
+            "一緒に買い物しよう",
+            "そして、BLACKPINKのメンバー全員を嫉妬させよう"
+          ]
+        ],
+        "answer": [
+          "ハハハ、オンニ、嫉妬させようよ",
+          "ハハハ、オンニ、嫉妬させないでよ"
+        ]
+      },
+      {
+        "ask": [
+          ["そうだね yn", "僕たちの写真をインスタグラムでシェアしよう"],
+          ["どうして yn", "僕たちの写真をインスタグラムでシェアしよう"]
+        ],
+        "answer": [
+          "OMG、あなたのインスタグラムで私たちの写真をシェアしてくれるの",
+          "やめて、オンニ、恥ずかしいよ"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "そうだよ ベイビー",
+            "世界中に僕たちを見てほしいんだ",
+            "じゃあ明日ね yn",
+            "君に会えるのが待ちきれないよ"
+          ],
+          [
+            "どうして？君は僕が今まで出会った中で最も美しい女性だよ",
+            "世界中に僕たちを見てほしいんだ",
+            "じゃあ明日ね yn",
+            "君に会えるのが待ちきれないよ"
+          ]
+        ],
+        "answer": [
+          "OMG、あなたのインスタグラムで私たちの写真をシェアしてくれるの",
+          "やめて、オンニ、恥ずかしいよ"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["アンニョンハセヨ (こんにちは)", "yn", "これは「こんにちは」という意味だよ"]],
+        "answer": ["アンニョンハセヨ、オンニ", "「こんにちは」って意味なの知ってるよ"]
+      },
+      {
+        "ask": [
+          ["おお、すごいね", "韓国語話せるの？"],
+          ["本当に？", "韓国語話せるの？"]
+        ],
+        "answer": ["はい、話せます", "少しだけだよ、オンニ"]
+      },
+      {
+        "ask": [
+          ["わあ、すごい", "韓国を訪れたことはある？", "ソウルに行ったことは？"],
+          ["大丈夫だよ", "韓国を訪れたことはある？", "ソウルに行ったことは？"]
+        ],
+        "answer": ["一度もないよ", "はい、あるよ"]
+      },
+      {
+        "ask": [
+          [
+            "気にしないで",
+            "韓国訪問はいつでも歓迎だよ、",
+            "僕はたくさんの国を訪れたんだ"
+          ],
+          [
+            "本当に？また韓国に来なきゃね",
+            "韓国訪問はいつでも歓迎だよ、",
+            "僕はたくさんの国を訪れたんだ"
+          ]
+        ],
+        "answer": ["わあ、すごいね", "旅はどうだった？"]
+      },
+      {
+        "ask": [
+          [
+            "そうだね yn、君もたくさんの国を訪れるべきだよ",
+            "どの国にもそれぞれの美しさがあるんだ",
+            "ワールドツアーで近いうちにそれらを訪れるよ"
+          ],
+          [
+            "魅了されたよ",
+            "どの国にもそれぞれの美しさがあるんだ",
+            "ワールドツアーで近いうちにそれらを訪れるよ"
+          ]
+        ],
+        "answer": [
+          "それを聞いて嬉しいけど、あなたがいないから嫉妬しちゃう",
+          "それは最高だね"
+        ]
+      },
+      {
+        "ask": [
+          ["ワールドツアーで後で僕と一緒に行けるよ"],
+          ["やったー、最高だね", "ワールドツアーで後で僕と一緒に行けるよ"]
+        ],
+        "answer": ["OMG、本当？", "いいね"]
+      },
+      {
+        "ask": [
+          [
+            "もちろんだよ yn",
+            "マネージャーのオンニがチケットを送るよ",
+            "でもワールドツアーのために練習に行かなきゃ",
+            "他の国で後で感謝してね",
+            "またね yn"
+          ],
+          [
+            "マネージャーのオンニがチケットを送るよ",
+            "でもワールドツアーのために練習に行かなきゃ",
+            "他の国で後で感謝してね",
+            "またね yn"
+          ]
+        ],
+        "answer": [
+          "OMG、あなたのインスタグラムで私たちの写真をシェアしてくれるの",
+          "やめて、オンニ、恥ずかしいよ"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["やあ yn"]],
+        "answer": ["はい、オンニ", "こんにちは、オンニ"]
+      },
+      {
+        "ask": [["元気？"], ["元気？"]],
+        "answer": ["大丈夫だよ", "元気だよ"]
+      },
+      {
+        "ask": [
+          ["いいね", "昨日、寝る前に君のことを考えてたんだ"],
+          ["クールだね", "昨日、寝る前に君のことを考えてたんだ"]
+        ],
+        "answer": [
+          "本当に、あぁ、照れるな、オンニ",
+          "私のこと、何を考えてたの？"
+        ]
+      },
+      {
+        "ask": [
+          ["本当に", "実は、君ともっと親しくなりたいんだ"],
+          [
+            "僕が今まで出会った中で最も可愛い女性だ",
+            "実は、君ともっと親しくなりたいんだ"
+          ]
+        ],
+        "answer": ["OMG、とても優しいね", "嘘つきだよ、オンニ"]
+      },
+      {
+        "ask": [
+          ["そうだ Sweetie", "今夜、一緒に夕食はどう？"],
+          ["違うよ Sweetie", "嘘つきじゃないよ", "今夜、一緒に夕食はどう？"]
+        ],
+        "answer": [
+          "もちろんだよ、オンニ、場所を送ってくれる？",
+          "行きたいけど、ごめんなさい、遅れそう"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "いいよ yn",
+            "江南の素敵なレストランに行って",
+            "ごめん、迎えに行けないんだ",
+            "BLACKPINKのメンバーとまだ練習中だから"
+          ],
+          [
+            "大丈夫だよ yn",
+            "江南の素敵なレストランに行って",
+            "ごめん、迎えに行けないんだ",
+            "BLACKPINKのメンバーとまだ練習中だから"
+          ]
+        ],
+        "answer": ["大丈夫だよ、オンニ", "気にしないで、20:00にはそこに着くよ"]
+      },
+      {
+        "ask": [
+          ["できるだけ早く君に会えるのが待ちきれないよ"],
+          ["できるだけ早く会おうね"]
+        ],
+        "answer": [
+          "OMG、あなたのインスタグラムで私たちの写真をシェアしてくれるの",
+          "やめて、オンニ、恥ずかしいよ"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["やあ", "僕が今まで出会った中で最も美しい女性"]],
+        "answer": ["こんにちは、オンニ、どこにいるの？", "どうして私のメッセージを無視してるの"]
+      },
+      {
+        "ask": [
+          [
+            "オフィスにいるよ yn",
+            "最近、ダンスの練習がたくさんあって",
+            "すごく疲れてるんだ"
+          ],
+          [
+            "わざとメッセージを無視してるんじゃないよ yn",
+            "最近、ダンスの練習がたくさんあって",
+            "すごく疲れてるんだ"
+          ]
+        ],
+        "answer": ["それはすごいね", "カムバックするの、オンニ？"]
+      },
+      {
+        "ask": [
+          ["うん、すごいよ", "BLINKのためにカムバックに向けてたくさん練習してるんだ"],
+          [
+            "うん、新しいアルバムでカムバックするよ",
+            "BLINKのためにカムバックに向けてたくさん練習してるんだ"
+          ]
+        ],
+        "answer": ["待ちきれないよ、オンニ", "新しい曲を教えてよ"]
+      },
+      {
+        "ask": [
+          [
+            "もちろん",
+            "でも新しい曲のことは教えられないんだ",
+            "大事なのは、僕たちには素晴らしい新曲があるってこと"
+          ],
+          [
+            "ダメだよ ベイビー",
+            "新しい曲のことは教えられないんだ",
+            "大事なのは、僕たちには素晴らしい新曲があるってこと"
+          ]
+        ],
+        "answer": [
+          "お願い、教えてよ、オンニ",
+          "大丈夫だよ、オンニ、公式リリースまで待ってるね"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "ダメだよ yn",
+            "でももし君が望むなら",
+            "今度、僕たちの練習を見に来てもいいよ",
+            "でも誰にも言わないでね"
+          ],
+          [
+            "さすが僕のベイビーだ",
+            "でももし君が望むなら",
+            " 今度、僕たちの練習を見に来てもいいよ",
+            "でも誰にも言わないでね"
+          ]
+        ],
+        "answer": [
+          "OMG、本当？誰にも言わないよ",
+          "ちょっと待って、親友にだけは教えるね"
+        ]
+      },
+      {
+        "ask": [
+          ["だめだよ yn", "誰にもそれについて言っちゃだめだよ"],
+          ["待って", "だめだよ yn", "誰にもそれについて言っちゃだめだよ"]
+        ],
+        "answer": ["言わないよ、オンニ"]
+      },
+      {
+        "ask": [
+          [" OK yn", "14:30にオフィスで会おうね"],
+          [" OK yn", "14:30にオフィスで会おうね"]
+        ],
+        "answer": ["言わないよ、オンニ"]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "家にいる？"]],
+        "answer": ["はい、オンニ、どうして？", "もちろん、オンニ、家にいるよ"]
+      },
+      {
+        "ask": [
+          ["すごいね", "君のお母さんと話してもいい？"],
+          ["すごいね", "君のお母さんと話してもいい？"]
+        ],
+        "answer": ["え、なんで？", "私のお母さんと話す？どうして？"]
+      },
+      {
+        "ask": [
+          [
+            "彼女に伝えたいんだ",
+            "彼女の娘が僕が今まで見た中で最も可愛い女性だってことを"
+          ],
+          [
+            "彼女に伝えたいんだ",
+            "彼女の娘が僕が今まで見た中で最も可愛い女性だってことを"
+          ]
+        ],
+        "answer": ["本当に", "嘘つきだよ、オンニ"]
+      },
+      {
+        "ask": [
+          ["もちろんだよ yn", "君は僕にとって本当に特別なんだ"],
+          ["違うよ yn", "君は僕にとって本当に特別なんだ"]
+        ],
+        "answer": [
+          "本当に、OMG、私を照れさせるのが上手だね",
+          "どうやったら私を照れさせられるか知ってるね"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "ハハ",
+            "僕はもっと君が好きだよ、世界に知られてもいい、怖がらないで",
+            "今、君の写真を見て微笑んでるよ"
+          ],
+          [
+            "ハハ",
+            "僕はもっと君が好きだよ、世界に知られてもいい、怖がらないで",
+            "今、君の写真を見て微笑んでるよ"
+          ]
+        ],
+        "answer": [
+          "私もだよ、オンニ",
+          "オンニ、私のスマホの壁紙があなたなの知ってた？"
+        ]
+      },
+      {
+        "ask": [
+          ["僕の写真をどこで手に入れたの？"],
+          ["僕の写真をどこで手に入れたの？"]
+        ],
+        "answer": [
+          "たくさん持ってるよ、オンニ、でも足りないんだ",
+          "インスタグラムでスクリーンショットしたよ、オンニ"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "アプリストアでBLACKPINKの壁紙や僕の壁紙をファンアプリでダウンロードできるよ",
+            "簡単に僕の写真を保存できるから、スクリーンショットする必要はないよ",
+            "写真がたくさんあって、最新の写真が最速で更新されるんだ"
+          ],
+          [
+            "アプリストアでBLACKPINKの壁紙や僕の壁紙をファンアプリでダウンロードできるよ",
+            "簡単に僕の写真を保存できるから、スクリーンショットする必要はないよ",
+            "写真がたくさんあって、最新の写真が最速で更新されるんだ"
+          ]
+        ],
+        "answer": [
+          "たくさん持ってるよ、オンニ、でも足りないんだ",
+          "インスタグラムでスクリーンショットしたよ、オンニ"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [
+          ["yn", "何してるの？"],
+          ["yn", "何してるの？"]
+        ],
+        "answer": ["何もしてないよ、オンニ", "あなたとメッセージしてるよ、オンニ"]
+      },
+      {
+        "ask": [
+          ["OMG、暇なの？", "ゲームでもする？"],
+          ["知ってるよ", "ゲームでもする？"]
+        ],
+        "answer": ["うん、オンニ、ゲーム大好き", "ゲームしよう、オンニ"]
+      },
+      {
+        "ask": [
+          [
+            "よし、ゲームを始めよう",
+            "二つの異なるものから選んでもらうよ？",
+            "朝 / 夜"
+          ],
+          [
+            "遊ぼう",
+            "二つの異なるものから選んでもらうよ？",
+            "朝 / 夜"
+          ]
+        ],
+        "answer": ["夜", "朝"]
+      },
+      {
+        "ask": [
+          ["僕もだよ", "コーヒーか紅茶？"],
+          ["僕もだよ", "コーヒーか紅茶？"]
+        ],
+        "answer": ["コーヒー", "紅茶"]
+      },
+      {
+        "ask": [
+          ["OMG、また同じだ", "犬か猫？"],
+          ["OMG、また同じだ", "犬か猫？"]
+        ],
+        "answer": [
+          "もちろん可愛いミャオミャオ (猫)",
+          "もちろん、いつものように可愛い犬を選ぶよ"
+        ]
+      },
+      {
+        "ask": [
+          ["でも君が一番可愛いよ", "yn", "僕かアリアナ・グランデ？"],
+          ["でも君が一番可愛いよ", "yn", "僕かアリアナ・グランデ？"]
+        ],
+        "answer": ["あなたぁ", "アリアナ・グランデ LOL"]
+      },
+      {
+        "ask": [
+          [
+            "本当に yn",
+            "僕も君が好きだよ",
+            "夕食に迎えに行くから",
+            "準備してね、ベイビー"
+          ],
+          ["OK", "ありがとう", "行くね", "またね"]
+        ],
+        "answer": ["あなたぁ", "アリアナ・グランデ LOL"]
+      }
+    ]
+  ],
+
+  "chat_idn": [
+    [
+      {
+        "ask": [
+          [
+            "Hai, yn! Kamu sedang sibuk apa hari ini?",
+            "Baru selesai latihan, entah kenapa kamu tiba-tiba muncul di pikiranku.",
+            "Saat ini kamu sedang sibuk dengan apa?"
+          ]
+        ],
+        "answer": [
+          "OMG, Eonnie! Aku kaget banget! Aku baik-baik aja, lagi santai di kasur sambil *scroll-scroll* postinganmu, hehe.",
+          "Aku baik! Aku lagi nonton ulang salah satu penampilan panggung legendarismu, Eonnie! Bagaimana kabarmu, tidak capek setelah latihan?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Syukurlah kamu baik-baik saja. Aku juga baik, cuma sedikit pegal.",
+            "Penampilan yang mana? Yang dari konser terakhir, kan?",
+            "Ngomong-ngomong, bagaimana harimu?"
+          ],
+          [
+            "Sedikit capek, iya, tapi jadi semangat lagi karena memikirkanmu. Hehe.",
+            "Ada hal seru atau menarik yang terjadi hari ini di pihakmu?"
+          ]
+        ],
+        "answer": [
+          "Yang itu, Eonnie! Ya ampun, kamu memang sempurna! Hariku lumayan bagus, cuma ke kampus saja.",
+          "Seru banget, Eonnie! Aku ketemu teman-teman BLINK lainnya, dan kami seru banget ngobrolin momen lucu kalian di video *behind-the-scenes*!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Hahaha, kalian ini memang luar biasa. Aku senang kalau kalian bisa tertawa karena kami.",
+            "Aku selalu penasaran, dari semua penampilan kami, bagian mana yang benar-benar membuatmu 'terpesona'?",
+            "Atau ada detail kecil yang cuma kalian yang sadari?"
+          ],
+          [
+            "Benarkah? Jadi kami berhasil mencerahkan harimu ya.",
+            "Ngomong-ngomong, apa yang membuat kalian semua begitu luar biasa setia pada kami?",
+            "Aku sering bertanya-tanya apa yang membuat kalian tetap di sini."
+          ]
+        ],
+        "answer": [
+          "Banyak hal, Eonnie! Auramu di panggung, senyum tipismu, atau saat kamu mencapai nada tinggi secara langsung yang membuatku merinding! Aku selalu memperhatikan bagaimana kamu berinteraksi dengan anggota lain!",
+          "Karena kalian semua sangat tulus, Eonnie! Setiap lagu dan setiap usaha yang kalian berikan selalu memberiku energi positif. Itu sebabnya aku tidak bisa berpaling!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Wow, kamu benar-benar memperhatikan hal sekecil itu ya? Itu benar-benar menyentuh hatiku.",
+            "Itu membuatku makin termotivasi untuk terus memberikan yang terbaik.",
+            "Ada yang ingin kamu katakan langsung kepadaku?"
+          ],
+          [
+            "Ah, ketulusan... Aku sangat senang itu tersampaikan pada kalian semua.",
+            "Ngomong-ngomong, kalau aku punya waktu luang, ada tempat impian yang ingin kamu kunjungi bersamaku?"
+          ]
+        ],
+        "answer": [
+          "Tentu saja! Eonnie, tolong jaga kesehatanmu, jangan sakit! Jangan terlalu memaksakan diri. Kami selalu di sini mendukungmu!",
+          "Eonnie! Aku benar-benar ingin ikut konser *world tour*-mu bersamamu! Atau kalau lagi santai, aku ingin piknik di taman yang tenang dan cuma ngobrol."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Tur dunia bersamamu? Itu ide bagus, aku harap itu bisa jadi kenyataan.",
+            "Aku akan bekerja keras untuk mewujudkannya.",
+            "Sayangnya, aku harus kembali latihan sebentar lagi, tapi senang sekali bisa bicara denganmu."
+          ],
+          [
+            "Piknik di taman yang tenang terdengar sangat damai.",
+            "Aku akan menyimpan ide itu. Wah, waktu cepat berlalu ya?",
+            "Aku harus melanjutkan jadwalku, terima kasih banyak sudah menemaniku."
+          ]
+        ],
+        "answer": [
+          "Oke, Eonnie! Selamat berlatih! Aku juga senang banget bisa 'ngobrol' denganmu, walau sebentar. Jaga diri baik-baik!",
+          "Ya, Eonnie, semangat bekerja! Seharusnya aku yang berterima kasih karena sudah 'mengobrol' denganku. Kamu juga jaga kesehatan ya!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kamu juga, jaga kesehatanmu baik-baik.",
+            "Aku tidak akan lupa percakapan kita hari ini, yn.",
+            "Sampai jumpa lagi!"
+          ],
+          [
+            "Tentu saja. Aku akan menghargai setiap kata yang kamu ucapkan.",
+            "Sampai jumpa lagi, yn. Semoga harimu menjadi lebih baik setelah ini!"
+          ]
+        ],
+        "answer": [
+          "Pasti, Eonnie! Aku tidak akan pernah lupa! Sampai ketemu di mimpiku malam ini! *Bye-bye*!",
+          "Kamu juga, Eonnie! Hariku otomatis lebih cerah setelah bicara denganmu! Sampai jumpa!"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "kamu ada di sana?", "Aku bosan"]],
+        "answer": ["aku juga", "iya aku di sini untukmu"]
+      },
+      {
+        "ask": [
+          ["kamu yakin?", "ayo kita bicara tentang sesuatu"],
+          ["bagus", "ayo kita bicara tentang sesuatu"]
+        ],
+        "answer": ["oke ayo ngobrol", "usulkan topik untuk dibicarakan"]
+      },
+      {
+        "ask": [
+          [
+            "oke",
+            "sebenarnya aku mau tanya kamu yn?",
+            "aku suka banget sama seseorang tapi aku nggak tahu cara memberitahunya"
+          ],
+          [
+            "bisa kita bicara tentang cinta?",
+            "sebenarnya aku mau tanya kamu yn?",
+            "aku suka banget sama seseorang tapi aku nggak tahu cara memberitahunya"
+          ]
+        ],
+        "answer": [
+          "sangat mudah, katakan saja kalau kamu menyukainya",
+          "hmm ajak saja dia untuk jalan-jalan akhir pekan ini"
+        ]
+      },
+      {
+        "ask": [
+          ["aku suka kamu", "mau jalan-jalan akhir pekan ini?"],
+          ["oke", "mau jalan-jalan akhir pekan ini?"]
+        ],
+        "answer": ["bukan, maksudku tanya dia", "siapa? aku? benarkah"]
+      },
+      {
+        "ask": [
+          [
+            "iya aku lakukan itu",
+            "aku suka kamu",
+            "karena kamu punya sesuatu yang istimewa yang membuatku tertarik padamu"
+          ],
+          [
+            "iya tentu saja kamu",
+            "karena kamu punya sesuatu yang istimewa yang membuatku tertarik padamu"
+          ]
+        ],
+        "answer": ["aku juga suka kamu", "apa hal itu"]
+      },
+      {
+        "ask": [
+          [
+            "kamu yakin?",
+            "sebenarnya nggak ada kecuali kamu yang bisa membuatku tertawa terbahak-bahak",
+            "itu sebabnya aku ingin kamu tahu bahwa aku mencintaimu yn"
+          ],
+          [
+            "hal itu adalah tidak ada kecuali kamu yang bisa membuatku tertawa terbahak-bahak",
+            "itu sebabnya aku ingin kamu tahu bahwa aku mencintaimu yn"
+          ]
+        ],
+        "answer": ["awww kamu membuatku malu", "apa aku benar-benar istimewa untukmu?"]
+      },
+      {
+        "ask": [
+          [
+            "apa aku?",
+            "kamu benar-benar istimewa untukku?",
+            "dan aku ingin bersamamu dalam waktu yang lama",
+            "tapi aku harus pergi",
+            "aku akan menghubungimu secepatnya"
+          ],
+          [
+            "kamu benar-benar istimewa untukku?",
+            "dan aku ingin bersamamu dalam waktu yang lama",
+            "tapi aku harus pergi",
+            "aku akan menghubungimu secepatnya"
+          ]
+        ],
+        "answer": ["awww kamu membuatku malu", "apa aku benar-benar istimewa untukmu?"]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "ada apa"]],
+        "answer": ["hai Eonnie", "halo"]
+      },
+      {
+        "ask": [["kamu menghilang ke mana?"], ["kamu menghilang ke mana?"]],
+        "answer": ["aku di sini sepanjang waktu", "tidak ada yang istimewa, aku hanya istirahat"]
+      },
+      {
+        "ask": [
+          ["Aku merindukanmu", "yn", "kenapa kamu tidak mengirim pesan kepadaku?"],
+          ["Aku merindukanmu", "yn", "kenapa kamu tidak mengirim pesan kepadaku?"]
+        ],
+        "answer": [
+          "aku juga merindukanmu, tidak, kamu ada di pikiranku",
+          "terima kasih Eonnie, aku minta maaf aku sibuk kemarin"
+        ]
+      },
+      {
+        "ask": [
+          ["jadi bisakah kita jalan-jalan besok", "kita akan pergi ke kafe yang keren"],
+          ["jadi bisakah kita jalan-jalan hari ini?", "kita akan pergi ke kafe yang keren"]
+        ],
+        "answer": [
+          "wow tentu saja kapan pun kamu mau",
+          "emm aku minta maaf Eonnie, hari ini aku harus pergi ke supermarket"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "bagus aku akan menjemputmu",
+            "dan kita akan membuat semua anggota BLACKPINK cemburu"
+          ],
+          [
+            "oke, aku akan mengantarmu ke supermarket",
+            "belanja bersama",
+            "dan kita akan membuat semua anggota BLACKPINK cemburu"
+          ]
+        ],
+        "answer": [
+          "hahah, ayo kita buat mereka cemburu Eonnie",
+          "hahah, jangan buat mereka cemburu Eonnie"
+        ]
+      },
+      {
+        "ask": [
+          ["yaahh yn", "kita akan berbagi foto kita di instagram"],
+          ["kenapa yn", "kita akan berbagi foto kita di instagram"]
+        ],
+        "answer": [
+          "OMG kamu akan berbagi foto kita di instagram kamu",
+          "Jangan Eonnie, aku malu"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "iya sayang",
+            "aku ingin semua dunia melihat kita",
+            "sampai jumpa besok yn",
+            "aku tidak sabar untuk melihatmu"
+          ],
+          [
+            "kenapa? kamu adalah wanita paling cantik yang pernah aku temui",
+            "aku ingin semua dunia melihat kita",
+            "sampai jumpa besok yn",
+            "aku tidak sabar untuk melihatmu"
+          ]
+        ],
+        "answer": [
+          "OMG kamu akan berbagi foto kita di instagram kamu",
+          "Jangan Eonnie, aku malu"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["anyeonghaseyo", "yn", "itu berarti hai"]],
+        "answer": ["anyeonghaseyo Eonnie", "aku tahu itu berarti hai"]
+      },
+      {
+        "ask": [
+          ["oh bagus", "kamu bisa bicara bahasa korea?"],
+          ["benarkah?", "kamu bisa bicara bahasa korea?"]
+        ],
+        "answer": ["iya aku bisa", "sedikit Eonnie"]
+      },
+      {
+        "ask": [
+          ["wow menakjubkan", "kamu pernah mengunjungi korea?", "maksudku mengunjungi seoul"],
+          ["tidak apa-apa", "kamu pernah mengunjungi korea?", "maksudku mengunjungi seoul"]
+        ],
+        "answer": ["tidak pernah", "iya pernah"]
+      },
+      {
+        "ask": [
+          [
+            "tidak masalah",
+            "kamu selalu diterima untuk mengunjungi korea,",
+            "aku sudah mengunjungi banyak negara"
+          ],
+          [
+            "benarkah? kamu harus mengunjungi korea lagi",
+            "kamu selalu diterima untuk mengunjungi korea,",
+            "aku sudah mengunjungi banyak negara"
+          ]
+        ],
+        "answer": ["wow itu menakjubkan", "bagaimana perjalanannya?"]
+      },
+      {
+        "ask": [
+          [
+            "iya yn kamu harus mengunjungi banyak negara",
+            "setiap negara punya keindahannya sendiri",
+            "kita akan mengunjunginya segera di tur dunia"
+          ],
+          [
+            "aku terpesona",
+            "setiap negara punya keindahannya sendiri",
+            "kita akan mengunjunginya segera di tur dunia"
+          ]
+        ],
+        "answer": [
+          "aku senang mendengarnya tapi aku cemburu karena aku tidak bersamamu",
+          "itu luar biasa"
+        ]
+      },
+      {
+        "ask": [
+          ["kamu bisa pergi denganku nanti di tur dunia"],
+          ["yaahh itu luar biasa", "kamu bisa pergi denganku nanti di tur dunia"]
+        ],
+        "answer": ["OMG, kamu yakin?", "kedengarannya bagus"]
+      },
+      {
+        "ask": [
+          [
+            "iya yn",
+            "manager Eonnie akan mengirimkanmu tiket",
+            "tapi aku harus pergi latihan untuk tur dunia",
+            "ucapkan terima kasih padaku nanti di negara lain",
+            "sampai jumpa yn"
+          ],
+          [
+            "manager Eonnie akan mengirimkanmu tiket",
+            "tapi aku harus pergi latihan untuk tur dunia",
+            "ucapkan terima kasih padaku nanti di negara lain",
+            "sampai jumpa yn"
+          ]
+        ],
+        "answer": [
+          "OMG kamu akan berbagi foto kita di instagram kamu",
+          "Jangan Eonnie, aku malu"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["hei yn"]],
+        "answer": ["hai Eonnie", "halo Eonnie"]
+      },
+      {
+        "ask": [["bagaimana kabarmu?"], ["bagaimana kabarmu?"]],
+        "answer": ["aku baik-baik saja", "aku sehat"]
+      },
+      {
+        "ask": [
+          ["bagus", "kemarin aku memikirkanmu sebelum tidur"],
+          ["keren", "kemarin aku memikirkanmu sebelum tidur"]
+        ],
+        "answer": [
+          "benarkah, oh kamu membuatku malu Eonnie",
+          "apa yang kamu pikirkan tentang aku?"
+        ]
+      },
+      {
+        "ask": [
+          ["benarkah", "sebenarnya aku ingin lebih dekat denganmu"],
+          [
+            "wanita paling imut yang pernah aku temui",
+            "sebenarnya aku ingin lebih dekat denganmu"
+          ]
+        ],
+        "answer": ["OMG itu sangat manis", "kamu itu bohong Eonnie"]
+      },
+      {
+        "ask": [
+          ["iya sayang", "bagaimana kalau makan malam nanti malam?"],
+          ["tidak sayang", "aku tidak bohong", "bagaimana kalau makan malam nanti malam?"]
+        ],
+        "answer": [
+          "tentu saja Eonnie, kamu bisa kirim lokasinya?",
+          "Aku mau tapi aku minta maaf aku akan terlambat"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "iya yn",
+            "kamu bisa pergi ke restoran bagus di Gangnam",
+            "Aku minta maaf aku tidak bisa menjemputmu",
+            "Karena aku masih latihan dengan anggota BLACKPINK"
+          ],
+          [
+            "tidak apa-apa yn",
+            "kamu bisa pergi ke restoran bagus di Gangnam",
+            "Aku minta maaf aku tidak bisa menjemputmu",
+            "Karena aku masih latihan dengan anggota BLACKPINK"
+          ]
+        ],
+        "answer": ["tidak apa-apa Eonnie", "santai aja aku akan ke sana jam 20:00"]
+      },
+      {
+        "ask": [
+          ["Aku tidak sabar untuk menemuimu secepatnya"],
+          ["sampai jumpa secepatnya"]
+        ],
+        "answer": [
+          "OMG kamu akan berbagi foto kita di instagram kamu",
+          "Jangan Eonnie, aku malu"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["hai", "wanita paling cantik yang pernah aku temui"]],
+        "answer": ["halo Eonnie, kamu di mana?", "kenapa kamu mengabaikan pesanku"]
+      },
+      {
+        "ask": [
+          [
+            "Aku di kantor yn",
+            "akhir-akhir ini kami banyak latihan menari",
+            "aku sangat lelah"
+          ],
+          [
+            "Aku tidak mengabaikan pesanmu dengan sengaja yn",
+            "akhir-akhir ini kami banyak latihan menari",
+            "aku sangat lelah"
+          ]
+        ],
+        "answer": ["itu bagus", "apa kamu akan *comeback* Eonnie?"]
+      },
+      {
+        "ask": [
+          ["iya itu bagus", "kami banyak latihan untuk *comeback* kami untuk BLINK"],
+          [
+            "iya kami akan *comeback* dengan album baru",
+            "kami banyak latihan untuk *comeback* kami untuk BLINK"
+          ]
+        ],
+        "answer": ["Aku tidak sabar Eonnie", "tolong beri tahu aku lagu barumu"]
+      },
+      {
+        "ask": [
+          [
+            "tentu saja",
+            "tapi aku tidak bisa memberitahumu tentang lagu baruku",
+            "intinya kami punya lagu baru yang hebat"
+          ],
+          [
+            "tidak sayang",
+            "aku tidak bisa memberitahumu tentang lagu baruku",
+            "intinya kami punya lagu baru yang hebat"
+          ]
+        ],
+        "answer": [
+          "tolong beri tahu aku Eonnie",
+          "tidak apa-apa Eonnie, aku akan menunggu sampai rilis resmi"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "tidak yn",
+            "tapi kalau kamu mau",
+            "kamu bisa datang dan melihat latihan kami lain kali",
+            "tapi jangan beri tahu siapa pun"
+          ],
+          [
+            "itu bayiku",
+            "tapi kalau kamu mau",
+            " kamu bisa datang dan melihat latihan kami lain kali",
+            "tapi jangan beri tahu siapa pun"
+          ]
+        ],
+        "answer": [
+          "OMG benarkah, aku tidak akan beri tahu siapa pun",
+          "tunggu sebentar, aku akan memberitahu teman terdekatku"
+        ]
+      },
+      {
+        "ask": [
+          ["iya yn", "kamu tidak boleh memberitahu siapa pun tentang itu"],
+          ["tunggu", "tidak yn", "kamu tidak boleh memberitahu siapa pun tentang itu"]
+        ],
+        "answer": ["aku tidak akan Eonnie"]
+      },
+      {
+        "ask": [
+          [" oke yn", "sampai jumpa di kantor jam 14:30"],
+          [" oke yn", "sampai jumpa di kantor jam 14:30"]
+        ],
+        "answer": ["aku tidak akan Eonnie"]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "apa kamu di rumah?"]],
+        "answer": ["iya Eonnie kenapa?", "tentu saja Eonnie, aku di rumah"]
+      },
+      {
+        "ask": [
+          ["luar biasa", "bisakah aku bicara dengan ibumu?"],
+          ["luar biasa", "bisakah aku bicara dengan ibumu?"]
+        ],
+        "answer": ["apa, kenapa?", "bicara dengan ibuku, kenapa?"]
+      },
+      {
+        "ask": [
+          [
+            "Aku ingin memberitahunya",
+            "bahwa putrinya adalah wanita paling imut yang pernah aku lihat"
+          ],
+          [
+            "Aku ingin memberitahunya",
+            "bahwa putrinya adalah wanita paling imut yang pernah aku lihat"
+          ]
+        ],
+        "answer": ["benarkah", "kamu itu bohong Eonnie"]
+      },
+      {
+        "ask": [
+          ["tentu saja yn", "kamu benar-benar istimewa untukku"],
+          ["tidak yn", "kamu benar-benar istimewa untukku"]
+        ],
+        "answer": [
+          "benarkah, OMG kamu membuatku malu",
+          "kamu tahu cara membuatku malu"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "haha",
+            "Aku lebih menyukaimu, biarkan dunia tahu tapi jangan takut",
+            "sekarang aku tersenyum karena melihat fotomu"
+          ],
+          [
+            "haha",
+            "Aku lebih menyukaimu, biarkan dunia tahu tapi jangan takut",
+            "sekarang aku tersenyum karena melihat fotomu"
+          ]
+        ],
+        "answer": [
+          "aku juga Eonnie",
+          "Eonnie, kamu tahu *wallpaper* ponselku adalah kamu Eonnie"
+        ]
+      },
+      {
+        "ask": [
+          ["di mana kamu mendapatkan fotoku?"],
+          ["di mana kamu mendapatkan fotoku?"]
+        ],
+        "answer": [
+          "Aku punya banyak Eonnie, tapi aku tidak pernah merasa cukup",
+          "*screenshot* instagram Eonnie"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "kamu bisa mengunduh *Wallpaper* BLACKPINK atau *wallpaper*-ku di aplikasi penggemar di *app store*",
+            "kamu tidak perlu *screenshot* karena kamu bisa dengan mudah menyimpan fotoku",
+            "ada banyak foto dan foto terbaru diperbarui dengan cepat"
+          ],
+          [
+            "kamu bisa mengunduh *Wallpaper* BLACKPINK atau *wallpaper*-ku di aplikasi penggemar di *app store*",
+            "kamu tidak perlu *screenshot* karena kamu bisa dengan mudah menyimpan fotoku",
+            "ada banyak foto dan foto terbaru diperbarui dengan cepat"
+          ]
+        ],
+        "answer": [
+          "Aku punya banyak Eonnie, tapi aku tidak pernah merasa cukup",
+          "*screenshot* instagram Eonnie"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [
+          ["yn", "kamu sedang apa?"],
+          ["yn", "kamu sedang apa?"]
+        ],
+        "answer": ["tidak melakukan apa-apa Eonnie", "kirim pesan denganmu Eonnie"]
+      },
+      {
+        "ask": [
+          ["OMG kamu bosan?", "bagaimana kalau kita main game"],
+          ["iya aku tahu", "bagaimana kalau kita main game"]
+        ],
+        "answer": ["iya Eonnie, aku suka game", "ayo main game Eonnie"]
+      },
+      {
+        "ask": [
+          [
+            "oke mari kita mulai game kita",
+            "aku akan membuatmu memilih di antara dua hal yang berbeda?",
+            "pagi / malam"
+          ],
+          [
+            "ayo main",
+            "aku akan membuatmu memilih di antara dua hal yang berbeda?",
+            "pagi / malam"
+          ]
+        ],
+        "answer": ["malam", "pagi"]
+      },
+      {
+        "ask": [
+          ["aku juga", "kopi atau teh"],
+          ["aku juga", "kopi atau teh"]
+        ],
+        "answer": ["kopi", "teh"]
+      },
+      {
+        "ask": [
+          ["omg sama lagi", "anjing atau kucing"],
+          ["omg sama lagi", "anjing atau kucing"]
+        ],
+        "answer": [
+          "tentu saja *miaw miaw* yang lucu (kucing)",
+          "tentu saja aku memilih anjing lucu seperti biasa"
+        ]
+      },
+      {
+        "ask": [
+          ["tapi kamu yang paling lucu", "yn", "aku atau Ariana Grande"],
+          ["tapi kamu yang paling lucu", "yn", "aku atau Ariana Grande"]
+        ]
+        ,
+        "answer": ["kamuu", "Ariana Grande LOL"]
+      },
+      {
+        "ask": [
+          [
+            "Benarkah yn",
+            "Aku juga menyukaimu",
+            "Aku akan menjemputmu untuk pergi makan malam",
+            "bersiap-siaplah sayang"
+          ],
+          ["oke", "terima kasih", "aku akan pergi", "sampai jumpa"]
+        ],
+        "answer": ["kamuu", "Ariana Grande LOL"]
+      }
+    ]
+  ]
+  ]
+}
