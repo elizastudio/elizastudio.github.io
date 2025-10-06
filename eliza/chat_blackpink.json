@@ -58,50 +58,29 @@
   "list_contact": [
     {
       "id": "1",
-      "name": "Jungkook",
+      "name": "Lisa",
       "imageUrl": "https://i.pinimg.com/originals/c8/ea/f1/c8eaf110489efd0abbe9ff22ae8679d2.jpg",
       "message": "Hello",
       "time": "today"
     },
     {
       "id": "2",
-      "name": "Jimin",
+      "name": "Jennie",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFYQWZOTNXxP9uh0duIcPlIBfTOasZS8oMtQ&s",
       "message": "Hello",
       "time": "today"
     },
     {
       "id": "3",
-      "name": "Jin",
+      "name": "Jiso",
       "imageUrl": "https://pm1.aminoapps.com/6623/96c74c0d62edf49b7a625e8c9acff9336e89bfe6_00.jpg",
       "message": "Hello",
       "time": "today"
     },
     {
       "id": "4",
-      "name": "Suga",
+      "name": "Rose",
       "imageUrl": "https://i.pinimg.com/736x/60/98/aa/6098aa121315d7c829ef1127913291e0.jpg",
-      "message": "Hello",
-      "time": "today"
-    },
-    {
-      "id": "5",
-      "name": "V",
-      "imageUrl": "https://i.pinimg.com/originals/33/a1/8b/33a18b1e25ae0495f06b2695aca42be5.jpg",
-      "message": "Hello",
-      "time": "today"
-    },
-    {
-      "id": "6",
-      "name": "RM",
-      "imageUrl": "https://i.pinimg.com/originals/0c/f7/d3/0cf7d32448be1ed39a6144389a47ba62.jpg",
-      "message": "Hello",
-      "time": "today"
-    },
-    {
-      "id": "7",
-      "name": "J-Hope",
-      "imageUrl": "https://i.pinimg.com/736x/64/e0/7a/64e07ad9daa5c976189076c4521f33bb.jpg",
       "message": "Hello",
       "time": "today"
     }
