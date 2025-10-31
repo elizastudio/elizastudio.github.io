@@ -6,11 +6,11 @@
     "bear"
   ],
   "init_jumlah_photo": 250,
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
+  "admob_banner_id": "ca-app-pub-4463463911232315/7272646081",
+  "admob_interstitial_id": "ca-app-pub-4463463911232315/2180101509",
   "admob_native_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "",
+  "admob_open_app_id": "ca-app-pub-4463463911232315/3160466091",
 
   "admob_hpk_1": "sticth",
   "admob_hpk_2": "fashion",
