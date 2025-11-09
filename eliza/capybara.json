@@ -6,11 +6,11 @@
     "capybara"
   ],
   "init_jumlah_photo": 200,
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
+  "admob_banner_id": "ca-app-pub-4463463911232315/4772182239",
+  "admob_interstitial_id": "ca-app-pub-4463463911232315/8941268208",
   "admob_native_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "",
+  "admob_open_app_id": "ca-app-pub-4463463911232315/6646277352",
 
   "admob_hpk_1": "sticth",
   "admob_hpk_2": "fashion",
