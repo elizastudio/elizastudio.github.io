@@ -1,0 +1,43 @@
+{
+  "username": "chichijaya3",
+  "new_username": "chichijaya3/aquarium",
+  "section_mode": true,
+  "album": [
+    "aquarium"
+  ],
+  "init_jumlah_photo": 200,
+  "admob_banner_id": "ca-app-pub-4463463911232315/7827539961",
+  "admob_interstitial_id": "ca-app-pub-4463463911232315/1860881509",
+  "admob_native_id": "ca-app-pub-4463463911232315/8930765819",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-4463463911232315/9910039098",
+
+  "admob_hpk_1": "sticth",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "blue koala",
+  "admob_hpk_4": "luxury car",
+  "admob_hpk_5": "insurance",
+
+  "startapp_app_id": "12345677890",
+
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+      "YANDEX",
+    "ADMOB"
+  
+  ],
+
+  "unity_id": "1234567",
+  "unity_banner": "Android_Banner",
+  "unity_interstitial": "Android_Interstitial",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":"",
+  "_comment_yandex": "Yandex Ads - Banner, Interstitial, App Open (untuk pasar Rusia)",
+  "yandex_banner_id": "R-M-18578228-1",
+  "yandex_interstitial_id": "R-M-18578228-3",
+  "yandex_open_app_id": "R-M-18578228-4",
+  "yandex_native_id" : "R-M-18578228-2"
+}
