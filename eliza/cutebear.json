@@ -23,7 +23,8 @@
   "interstitial_inverval": 5,
 
   "list_ads": [
-    "ADMOB"
+    "ADMOB",
+    "YANDEX"
   ],
 
   "unity_id": "1234567",
@@ -32,5 +33,10 @@
 
   "applovin_sdk_key": "",
   "applovin_banner_id":"",
-  "applovin_inter_id":""
+  "applovin_inter_id":"",
+  "_comment_yandex": "Yandex Ads - Banner, Interstitial, App Open (untuk pasar Rusia)",
+  "yandex_banner_id": "R-M-18876061-1",
+  "yandex_interstitial_id": "R-M-18876061-3",
+  "yandex_open_app_id": "R-M-18876061-4",
+  "yandex_native_id" : "R-M-18876061-2"
 }
