@@ -8,7 +8,7 @@
   ],
   "init_jumlah_photo": 200,
   "admob_banner_id": "ca-app-pub-4463463911232315/9538306958",
-  "admob_interstitial_id": "ca-app-pub-4463463911232315/4706419155",
+  "admob_interstitial_id": "",
   "admob_native_id": "ca-app-pub-4463463911232315/9363383808",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "ca-app-pub-4463463911232315/8523149317",
@@ -24,8 +24,7 @@
   "interstitial_inverval": 5,
 
   "list_ads": [
-    "ADMOB",
-    "UNITY"
+    "ADMOB"
   ],
 
   "unity_id": "4828560",
