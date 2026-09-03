@@ -1,15 +1,14 @@
 {
-  "username": "chichijaya3",
-  "new_username": "chichijaya3/kuromi",
+ "username": "chichijaya3",
+  "new_username": "chichijaya3/sakura",
   "section_mode": true,
   "album": [
-    "kuromi",
-    "cute",
-    "melody",
-    "pompompurin",
-    "cinnamonroll"
+    "random",
+    "sakura",
+    "cool",
+    "cute"
   ],
-  "init_jumlah_photo": 400,
+  "init_jumlah_photo": 550,
   "admob_banner_id": "ca-app-pub-4463463911232315/6402564650",
   "admob_interstitial_id": "ca-app-pub-4463463911232315/1317758935",
   "admob_native_id": "",
