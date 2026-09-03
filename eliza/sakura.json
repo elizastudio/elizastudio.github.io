@@ -3,18 +3,17 @@
   "new_username": "chichijaya3/sakura",
   "section_mode": true,
   "album": [
-    "random",
     "sakura",
     "cool",
+    "random",
     "cute"
   ],
   "init_jumlah_photo": 550,
-  "admob_banner_id": "ca-app-pub-4463463911232315/6402564650",
-  "admob_interstitial_id": "ca-app-pub-4463463911232315/1317758935",
+  "admob_banner_id": "",
+  "admob_interstitial_id": "",
   "admob_native_id": "",
   "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "ca-app-pub-4463463911232315/9190232290",
-
+  "admob_open_app_id": "",
   "admob_hpk_1": "sticth",
   "admob_hpk_2": "fashion",
   "admob_hpk_3": "blue koala",
@@ -27,6 +26,7 @@
 
   "list_ads": [
     "ADMOB",
+    "YANDEX",
     "UNITY"
   ],
 
@@ -35,6 +35,12 @@
   "unity_interstitial": "Interstitial_Android",
 
   "applovin_sdk_key": "",
-  "applovin_banner_id":"",
-  "applovin_inter_id":""
+  "applovin_banner_id": "",
+  "applovin_inter_id": "",
+
+  "_comment_yandex": "Yandex Ads - Banner, Interstitial, App Open (untuk pasar Rusia)",
+  "yandex_banner_id": "R-M-18546989-1",
+  "yandex_interstitial_id": "R-M-18546989-2",
+  "yandex_open_app_id": "R-M-18546989-3",
+  "yandex_native_id" : "R-M-18546989-4"
 }
